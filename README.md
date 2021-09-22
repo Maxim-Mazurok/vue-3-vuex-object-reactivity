@@ -1,4 +1,4 @@
-# vue3-vuex-object-reactivity
+# vue-3-vuex-object-reactivity
 
 This demo shows that object reactivity works in Vue 3 + Vuex, as opposed to Vue 2 + Vuex (https://github.com/Maxim-Mazurok/vue-2-vuex-object-reactivity)
 
